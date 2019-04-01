@@ -110,7 +110,7 @@ print("--- loading Creative.zs ---");
 # Creative Builder's Wand
 	mods.extendedcrafting.TableCrafting.addShaped(0, <extrautils2:itemcreativebuilderswand>, 
 	[[<extrautils2:itembuilderswand>, <cyclicmagic:cyclic_wand_build>.anyDamage(), <extrautils2:itembuilderswand>], 
-	[<betterbuilderswands:wanddiamond>.anyDamage(), <betterbuilderswands:wandunbreakable>.anyDamage(), <betterbuilderswands:wanddiamond>.anyDamage()], 
+	[<betterbuilderswands:wanddiamond>.anyDamage(), <betterbuilderswands:wandunbreakable:12>.anyDamage(), <betterbuilderswands:wanddiamond>.anyDamage()], 
 	[<extrautils2:itembuilderswand>, <cyclicmagic:cyclic_wand_build>.anyDamage(), <extrautils2:itembuilderswand>]]);  
 
 # Creative RFTools Screen
